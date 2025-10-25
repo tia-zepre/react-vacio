@@ -9,4 +9,4 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 npm install bootstrap react-bootstrap
 
-npm react-router-dom
+npm install react-router-dom
