@@ -10,3 +10,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 npm install bootstrap react-bootstrap
 
 npm install react-router-dom
+
+admin lte pagina web plantillas 
+instalar extension en visual html to JSX
