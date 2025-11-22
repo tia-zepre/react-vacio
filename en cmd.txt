@@ -13,3 +13,5 @@ npm install react-router-dom
 
 admin lte pagina web plantillas 
 instalar extension en visual html to JSX
+
+npm install axios
